@@ -1,0 +1,22 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Entorno virtual
+venv/
+prueba-tecnica-robot/venv/
+Scripts/
+__pycache__/
+.pyc
+
+# Resultados de Robot Framework
+results/
+output.xml
+log.html
+report.html
+
+# Archivos temporales
+__pycache__/
+.pyc
+.DS_Store
+
+# Otros
+*.log
