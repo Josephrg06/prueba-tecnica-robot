@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 4. Descarga y coloca `chromedriver.exe` en la carpeta `drivers/`.
 
-## ▶️ Ejecutar pruebas
+## Ejecutar pruebas ▶️
 
 ```bash
 robot -d results tests/formulario.robot
@@ -54,7 +54,7 @@ robot -d results tests/formulario.robot
 
 - `-d results`: guarda los logs y reportes en la carpeta `results/`.
 
-## 📊 Resultados
+## Resultados 📊
 
 Se generan automáticamente los archivos:
 
@@ -64,7 +64,7 @@ Se generan automáticamente los archivos:
 
 en la carpeta `results/`.
 
-## ✅ Autor
+## Autor ✅
 
 Joseph Rujano  
 [https://www.linkedin.com/in/joseph-rujano/]
